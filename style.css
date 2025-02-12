@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FDB927;
+    color: #552583;
+    font-family: Audiowide;
+}
+.navBar {
+    background-color: #552583;
+    font-family: Audiowide;
+    margin: 0;
+}
+.navBar h1{
+    color: #552583;
+    -webkit-text-stroke: #FDB927 0.5px;
+}
+.navBar ul{
+    list-style: none;
+    background-color: #6f3f9c;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.navBar li{
+    color: #FDB927;
+    padding: 0 2%;
+    padding-left: 50px;
+    text-align: center;
+    display: block;
+    float: left;
+}
+.navBar a{
+    color: #FDB927;
+    text-decoration: none;
+}
+.navBar a:hover{
+    color: #fd7d27;
+}
+.main{
+    float: left;
+    width: 35%;
+    padding-left: 10px;
+    font-size: 110%;
+}
+.side{
+    float: right ;
+    padding-top: 10px;
+    padding-right: 20px;
+}
