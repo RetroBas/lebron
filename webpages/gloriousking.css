@@ -1,0 +1,13 @@
+body{
+    background-color: #FDB927;
+}
+.lebron{
+    background-color: #552583;
+    border-radius: 30px;
+    color: #FDB927;
+    font-family: Audiowide;
+    text-align: center;
+    padding: 4% 7%;
+    margin: 0 10%;
+    min-width: 10%;
+}
